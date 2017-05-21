@@ -1,0 +1,13 @@
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe.config
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.csprojResolveAssemblyReference.cache
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.Form1.resources
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.Properties.Resources.resources
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.csproj.GenerateResource.Cache
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.pdb
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.exe
+c:\users\diu\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.pdb
+C:\Users\DIU\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe.manifest
+C:\Users\DIU\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.application
+C:\Users\DIU\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.exe.manifest
+C:\Users\DIU\documents\visual studio 2013\Projects\EightPuzzle\EightPuzzle\obj\Debug\EightPuzzle.application
